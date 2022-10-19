@@ -1,4 +1,4 @@
-![Masha](Masha.jpg)
+![Git logo](Git-Logo-1788C.png)
 # Работа с Git
 
 ## 1. Проверка наличия установленного Git
